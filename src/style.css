@@ -42,3 +42,21 @@ body.pose-mode #reset-btn{bottom:340px}
 .hud-top{text-shadow:0 1px 2px #ffffff80,0 0 5px #ffffff50}
 .hud-top .race-info label,.hud-top .position-card small,.hud-top .position-card span{color:#365b59}
 .hud-top .map svg{filter:drop-shadow(0 1px 2px #173c4030)}
+
+/* Optional coffee support follows the warm kart palette and stays on the home menu. */
+.coffee-entry{display:inline-flex;align-items:center;gap:18px;min-height:36px;padding:8px 13px;margin:0 0 12px;border:1px solid #d6ba825c;border-radius:12px;background:#fbebc7;color:#624627;box-shadow:0 2px 0 #caaa6b30;font-size:12px;font-weight:750}
+.coffee-entry small{padding:3px 7px;border-radius:7px;background:#fffaf0;color:#866135;font-size:11px;font-variant-numeric:tabular-nums}
+.coffee-panel{position:relative;width:370px;padding:28px;text-align:center;background:#fff9eb;border:2px solid #fffdf5}
+.coffee-panel .eyebrow{padding-right:12px;font-size:9px;letter-spacing:1.2px;color:#8a7050}
+.coffee-panel h2{font-size:24px;font-weight:750;letter-spacing:-.5px;margin:15px 0 10px}
+.coffee-panel .coffee-invitation{font-size:14px;line-height:1.5;color:#785b3b;margin:0 0 9px}
+.coffee-price{font-size:28px;font-weight:800;color:#bd7448;font-variant-numeric:tabular-nums;margin-bottom:18px}
+.coffee-close{position:absolute;right:10px;top:10px;width:30px;height:30px;border-radius:50%;background:#f3e8d1;color:#7f6240;font-size:23px;line-height:1}
+.coffee-qr-frame{position:relative;overflow:hidden;width:260px;height:310px;max-width:100%;margin:0 auto;border:1px solid #ece4d7;border-radius:15px;background:white;display:grid;place-items:center}
+.coffee-qr-frame img{position:absolute;width:421px;max-width:none;height:auto;left:50%;top:-99px;transform:translateX(-50%)}
+.coffee-qr-frame #coffee-qr-status{padding:25px;color:#8a7050;font-size:13px;line-height:1.6}
+.coffee-panel .coffee-instructions{margin:17px 0 7px;font-size:12px;font-weight:650;color:#3e6052}
+.coffee-panel .coffee-note{font-size:11px;color:#8c927f;line-height:1.5}
+.coffee-done{width:100%;margin-top:18px;padding:12px 16px;border-radius:10px;font-size:12px;font-weight:700;background:#e4edcf}
+@media(max-height:650px){.coffee-entry{min-height:32px;margin-bottom:9px;padding:6px 11px;font-size:11px}.coffee-panel{padding:22px}.coffee-panel h2{font-size:21px}.coffee-price{font-size:25px}.coffee-qr-frame{width:230px;height:255px}.coffee-qr-frame img{width:372px;top:-86px}.coffee-price span{margin-bottom:12px}.coffee-panel .coffee-instructions{margin-top:12px}.coffee-done{margin-top:12px}}
+@media(min-height:651px) and (max-height:780px) and (min-width:901px){.menu-content .season{display:none}.menu-content{transform:translateY(-48%)}.menu-content h1{font-size:clamp(43px,3.95vw,57px)}.intro{margin:12px 0}.mode-hint{margin-bottom:12px}}

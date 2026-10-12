@@ -112,6 +112,10 @@ npm run package
 
 公开网站的体感功能需要 **HTTPS**；本机 `http://localhost` 也可使用摄像头。普通局域网 HTTP 地址通常不能启用摄像头，请在本机使用 localhost 或配置 HTTPS。
 
+## 支持作者
+
+首页地图选择区上方的 **Buy me a coffee ☕** 可以打开微信收款二维码。支持文案：**Enjoying the game? Treat me to a Luckin coffee ☕**，建议金额 **¥9.9**。扫码后在微信输入 9.9 元；游戏保持免费，支持完全自愿。此入口不是瑞幸咖啡下单页面。
+
 ## 源码和检查
 
 | 位置 | 内容 |
