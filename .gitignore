@@ -1,0 +1,12 @@
+node_modules/
+dist/
+release/
+output/
+.DS_Store
+*.log
+.env
+.env.*
+__pycache__/
+*.pyc
+.codex/
+.agents/

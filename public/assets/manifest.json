@@ -1,0 +1,130 @@
+[
+  {
+    "file": "kart.glb",
+    "source": "starter/models/vehicles/vehicle-racer.glb",
+    "bytes": 113056,
+    "sha256": "aa433a2c71fb0c54762795a19af5eddfd40d63ead42f293800961b089e166102",
+    "changes": "Embedded images; source geometry retained. Runtime scaling, colors and accessories applied by game.",
+    "license": "CC0-1.0"
+  },
+  {
+    "file": "driver.glb",
+    "source": "starter/models/driver/character-a.glb",
+    "bytes": 133632,
+    "sha256": "4ca29c21ed70498536f4f2cc65deb5badfcd5af9edd895cff560d4a44541c142",
+    "changes": "Embedded images; source geometry retained. Runtime scaling, colors and accessories applied by game.",
+    "license": "CC0-1.0"
+  },
+  {
+    "file": "house-a.glb",
+    "source": "city-kit-suburban/Models/GLB format/building-type-a.glb",
+    "bytes": 110440,
+    "sha256": "c9a2751a753d178577580f5ccc62944ad8f9252564e758e31e3fb9e5ed15c72b",
+    "changes": "Embedded images; source geometry retained. Runtime scaling, colors and accessories applied by game.",
+    "license": "CC0-1.0"
+  },
+  {
+    "file": "house-b.glb",
+    "source": "city-kit-suburban/Models/GLB format/building-type-b.glb",
+    "bytes": 158556,
+    "sha256": "f9afd0f5b44f371b08dd515c5a1cdcbfcf8c8b7181feaed040cd8f4f45fbd89c",
+    "changes": "Embedded images; source geometry retained. Runtime scaling, colors and accessories applied by game.",
+    "license": "CC0-1.0"
+  },
+  {
+    "file": "house-c.glb",
+    "source": "city-kit-suburban/Models/GLB format/building-type-c.glb",
+    "bytes": 111428,
+    "sha256": "554f82156171a20eb17703b5507e9d37c6120d0aa13aa32be1ceb341180b213b",
+    "changes": "Embedded images; source geometry retained. Runtime scaling, colors and accessories applied by game.",
+    "license": "CC0-1.0"
+  },
+  {
+    "file": "house-e.glb",
+    "source": "city-kit-suburban/Models/GLB format/building-type-e.glb",
+    "bytes": 157344,
+    "sha256": "31e6a3c89998e0f4b6f9cacd305cf97b40b8bd68e19adfe07c032306081b64ca",
+    "changes": "Embedded images; source geometry retained. Runtime scaling, colors and accessories applied by game.",
+    "license": "CC0-1.0"
+  },
+  {
+    "file": "house-f.glb",
+    "source": "city-kit-suburban/Models/GLB format/building-type-f.glb",
+    "bytes": 150372,
+    "sha256": "489997574f13e06302fc15200f5f208f3f7aad41b085ac6b46a2bd1b9147943c",
+    "changes": "Embedded images; source geometry retained. Runtime scaling, colors and accessories applied by game.",
+    "license": "CC0-1.0"
+  },
+  {
+    "file": "house-h.glb",
+    "source": "city-kit-suburban/Models/GLB format/building-type-h.glb",
+    "bytes": 77200,
+    "sha256": "1b2573dd4164efeaa1225fe6b0d563e726e8a2d0b65bc718321602324bfd246e",
+    "changes": "Embedded images; source geometry retained. Runtime scaling, colors and accessories applied by game.",
+    "license": "CC0-1.0"
+  },
+  {
+    "file": "tree_default.glb",
+    "source": "nature-kit/Models/GLTF format/tree_default.glb",
+    "bytes": 9428,
+    "sha256": "562d29638c902de3c7bee465d3a53bb77117efbc392ae04ed894faf6b5dc691d",
+    "changes": "Embedded images; source geometry retained. Runtime scaling, colors and accessories applied by game.",
+    "license": "CC0-1.0"
+  },
+  {
+    "file": "tree_oak.glb",
+    "source": "nature-kit/Models/GLTF format/tree_oak.glb",
+    "bytes": 14644,
+    "sha256": "31729107bfd61183e794a3f2d9d4dd69420a25cf76cf55fe4164a635587e07c5",
+    "changes": "Embedded images; source geometry retained. Runtime scaling, colors and accessories applied by game.",
+    "license": "CC0-1.0"
+  },
+  {
+    "file": "tree_fat.glb",
+    "source": "nature-kit/Models/GLTF format/tree_fat.glb",
+    "bytes": 5576,
+    "sha256": "84b262c5dda3a91ac6c95f9d8b23a0ebbb1951d678c0e1375d3e32623cc43ee2",
+    "changes": "Embedded images; source geometry retained. Runtime scaling, colors and accessories applied by game.",
+    "license": "CC0-1.0"
+  },
+  {
+    "file": "smoke.png",
+    "source": "particle-pack/PNG (Transparent)/smoke_03.png",
+    "license": "CC0-1.0",
+    "changes": "Unchanged",
+    "bytes": 39737,
+    "sha256": "a71f8abcac64f8d73a94625cc9a10033dbeafa7eaea750560cba0daa73fe8752"
+  },
+  {
+    "file": "audio/engine.wav",
+    "source": "engine-loops/loop_3_0.wav",
+    "license": "CC0-1.0",
+    "changes": "22.05 kHz mono PCM WAV",
+    "bytes": 27310,
+    "sha256": "6a4b1562b55a1d7ca88c11478d7f935ac9476e841a32cabc4fe6e7e44c7cfe5d"
+  },
+  {
+    "file": "audio/drift.wav",
+    "source": "drift-loop/tires_squal_loop.wav",
+    "license": "CC-BY-3.0",
+    "changes": "22.05 kHz mono PCM WAV",
+    "bytes": 132378,
+    "sha256": "5651f635e0791c14875231f258f4e4c3a0c01d93b595124e242e84ddb7f648cc"
+  },
+  {
+    "file": "audio/race.mp3",
+    "source": "race-music/pure_raceway_bpm160.mp3",
+    "license": "CC0-1.0",
+    "changes": "96 kbps MP3",
+    "bytes": 1152745,
+    "sha256": "0669e17c9b2523593ee74f6799e6d61e3927589a5d7b4f67b6054b62e3e538ab"
+  },
+  {
+    "file": "audio/final.mp3",
+    "source": "race-music/pure_raceway_climax_bpm175.mp3",
+    "license": "CC0-1.0",
+    "changes": "96 kbps MP3",
+    "bytes": 1054012,
+    "sha256": "5f12e8206bfa26a57bcefa45d951c1060022e191b7cc3d9d86c21ddb022537c5"
+  }
+]
